@@ -1,0 +1,8 @@
+train: /content/drive/MyDrive/emotion-8
+val: /content/drive/MyDrive/emotion-8 
+
+#Classes
+nc: 8 # replace according to your number of classes
+#classes names
+#replace all class names list with your classes names
+names: ['anger','bored','excited','fear','happy','relax','sad','worry']

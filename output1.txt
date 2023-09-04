@@ -1,0 +1,598 @@
+Namespace(weights=['C:/Emotion_Analysis/Yolov7/yolov7/best.pt'], source='C:/Emotion_Analysis/Yolov7/yolov7/source-images/', img_size=640, conf_thres=0.25, iou_thres=0.45, device='', view_img=False, save_txt=False, save_conf=False, nosave=False, classes=None, agnostic_nms=False, augment=False, update=False, project='runs/detect', name='exp', exist_ok=False, no_trace=False)
+Fusing layers... 
+RepConv.fuse_repvgg_block
+RepConv.fuse_repvgg_block
+RepConv.fuse_repvgg_block
+IDetect.fuse
+ Convert model to Traced-model... 
+ traced_script_module saved! 
+ model is traced! 
+
+1 happy, Done. (1086.1ms) Inference, (17.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_0.jpg
+1 happy, Done. (997.3ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_10.jpg
+Done. (862.7ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_100.jpg
+1 happy, Done. (861.7ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_102.jpg
+1 happy, Done. (835.8ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_104.jpg
+1 happy, Done. (866.7ms) Inference, (2.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_106.jpg
+1 happy, Done. (843.7ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_108.jpg
+1 happy, Done. (848.7ms) Inference, (0.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_110.jpg
+1 happy, Done. (869.7ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_112.jpg
+1 happy, Done. (749.0ms) Inference, (0.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_114.jpg
+1 happy, Done. (860.7ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_116.jpg
+1 happy, Done. (834.8ms) Inference, (0.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_118.jpg
+1 happy, Done. (751.0ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_12.jpg
+Done. (835.8ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_120.jpg
+1 happy, Done. (826.8ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_122.jpg
+1 happy, Done. (837.8ms) Inference, (0.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_124.jpg
+1 happy, Done. (765.0ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_126.jpg
+1 happy, Done. (805.8ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_128.jpg
+1 happy, Done. (789.9ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_130.jpg
+1 happy, Done. (937.5ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_132.jpg
+1 happy, Done. (870.1ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_134.jpg
+1 happy, Done. (800.9ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_136.jpg
+1 happy, Done. (788.9ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_138.jpg
+1 happy, Done. (805.8ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_14.jpg
+1 happy, Done. (826.8ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_140.jpg
+1 happy, Done. (826.9ms) Inference, (1.9ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_142.jpg
+1 happy, Done. (812.8ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_144.jpg
+1 happy, Done. (852.7ms) Inference, (0.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_146.jpg
+1 happy, Done. (824.8ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_148.jpg
+1 happy, Done. (758.0ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_150.jpg
+1 happy, Done. (791.9ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_152.jpg
+1 happy, Done. (748.0ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_154.jpg
+1 happy, Done. (844.7ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_156.jpg
+1 happy, Done. (738.0ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_158.jpg
+1 happy, Done. (807.8ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_16.jpg
+1 happy, Done. (789.9ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_160.jpg
+1 happy, Done. (768.9ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_162.jpg
+1 happy, Done. (810.8ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_164.jpg
+1 happy, Done. (789.9ms) Inference, (0.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_166.jpg
+1 happy, Done. (965.5ms) Inference, (0.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_168.jpg
+1 happy, Done. (798.9ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_170.jpg
+1 happy, Done. (840.7ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_172.jpg
+1 excited, 1 happy, Done. (754.0ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_174.jpg
+1 happy, Done. (793.9ms) Inference, (0.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_176.jpg
+1 happy, Done. (795.9ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_178.jpg
+1 happy, Done. (1095.1ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_18.jpg
+1 excited, 1 happy, Done. (1229.7ms) Inference, (2.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_180.jpg
+2 happys, Done. (860.7ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_182.jpg
+1 happy, Done. (928.5ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_184.jpg
+1 happy, Done. (837.8ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_186.jpg
+1 happy, Done. (998.3ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_190.jpg
+1 happy, Done. (819.8ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_192.jpg
+Done. (919.5ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_194.jpg
+1 happy, Done. (823.8ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_196.jpg
+Done. (830.8ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_198.jpg
+1 happy, Done. (780.9ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_2.jpg
+1 happy, Done. (845.7ms) Inference, (0.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_20.jpg
+1 happy, Done. (800.9ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_200.jpg
+1 happy, Done. (883.6ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_202.jpg
+1 happy, Done. (1034.4ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_204.jpg
+1 happy, Done. (889.6ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_206.jpg
+1 happy, Done. (745.0ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_208.jpg
+1 happy, Done. (790.9ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_210.jpg
+1 happy, Done. (928.5ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_212.jpg
+1 excited, 1 happy, Done. (715.1ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_214.jpg
+1 happy, Done. (698.1ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_216.jpg
+1 happy, Done. (831.8ms) Inference, (0.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_218.jpg
+1 happy, Done. (733.0ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_22.jpg
+1 happy, Done. (668.2ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_220.jpg
+1 happy, Done. (690.2ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_222.jpg
+1 happy, Done. (722.1ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_224.jpg
+1 happy, Done. (672.2ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_226.jpg
+1 happy, Done. (740.0ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_228.jpg
+1 happy, Done. (788.9ms) Inference, (2.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_230.jpg
+Done. (709.1ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_232.jpg
+1 happy, Done. (690.2ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_234.jpg
+Done. (722.1ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_236.jpg
+1 happy, Done. (711.1ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_238.jpg
+1 happy, Done. (677.2ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_24.jpg
+1 happy, Done. (662.2ms) Inference, (0.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_240.jpg
+1 happy, Done. (676.2ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_242.jpg
+1 happy, Done. (666.2ms) Inference, (0.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_244.jpg
+1 happy, Done. (739.0ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_246.jpg
+Done. (713.1ms) Inference, (0.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_248.jpg
+1 happy, Done. (695.1ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_250.jpg
+1 happy, Done. (701.1ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_252.jpg
+1 happy, Done. (708.1ms) Inference, (0.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_254.jpg
+1 happy, Done. (752.0ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_256.jpg
+1 happy, Done. (757.0ms) Inference, (0.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_258.jpg
+1 happy, Done. (784.9ms) Inference, (2.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_26.jpg
+1 happy, Done. (1007.1ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_260.jpg
+1 happy, Done. (910.6ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_262.jpg
+1 happy, Done. (856.7ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_264.jpg
+1 happy, Done. (846.7ms) Inference, (0.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_266.jpg
+1 happy, Done. (926.5ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_268.jpg
+1 happy, Done. (945.5ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_270.jpg
+1 happy, Done. (958.4ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_271.jpg
+1 happy, Done. (1041.2ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_272.jpg
+1 happy, Done. (965.4ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_273.jpg
+1 happy, Done. (957.4ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_274.jpg
+1 happy, Done. (945.5ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_275.jpg
+1 happy, Done. (1054.2ms) Inference, (2.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_276.jpg
+1 happy, Done. (1237.7ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_277.jpg
+1 happy, Done. (998.3ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_278.jpg
+1 happy, Done. (1308.5ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_279.jpg
+1 happy, Done. (1264.6ms) Inference, (2.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_28.jpg
+1 happy, Done. (1004.3ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_280.jpg
+1 happy, Done. (1346.4ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_281 - Copy.jpg
+1 happy, Done. (1229.7ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_281.jpg
+1 happy, Done. (1512.0ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_282.jpg
+1 happy, Done. (1452.1ms) Inference, (2.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_283 - Copy.jpg
+1 happy, Done. (1375.3ms) Inference, (2.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_283.jpg
+1 happy, Done. (1322.5ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_284.jpg
+1 happy, Done. (1179.9ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_285 - Copy.jpg
+1 happy, Done. (1071.1ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_285.jpg
+1 happy, Done. (1220.7ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_286.jpg
+1 happy, Done. (1374.3ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_287 - Copy.jpg
+1 happy, Done. (1480.0ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_287.jpg
+1 happy, Done. (1277.6ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_288.jpg
+1 happy, Done. (1232.7ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_289 - Copy.jpg
+1 happy, Done. (1224.7ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_289.jpg
+1 happy, Done. (1225.7ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_290.jpg
+1 happy, Done. (1427.2ms) Inference, (8.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_291 - Copy.jpg
+1 happy, Done. (1304.5ms) Inference, (2.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_291.jpg
+Done. (1228.7ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_292.jpg
+1 happy, Done. (1201.8ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_293 - Copy.jpg
+1 happy, Done. (1232.7ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_293.jpg
+1 happy, Done. (1475.1ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_294.jpg
+1 excited, 1 happy, Done. (1297.5ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_295 - Copy.jpg
+1 excited, 1 happy, Done. (1236.7ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_295.jpg
+1 happy, Done. (1242.7ms) Inference, (0.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_296.jpg
+1 excited, 1 happy, Done. (1211.8ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_297 - Copy.jpg
+1 excited, 1 happy, Done. (1354.4ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_297.jpg
+1 excited, 1 happy, Done. (1328.5ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_298.jpg
+1 happy, Done. (1288.6ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_299 - Copy.jpg
+1 happy, Done. (1237.7ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_299.jpg
+1 happy, Done. (1296.5ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_30.jpg
+1 excited, 1 happy, Done. (1350.4ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_300.jpg
+1 happy, Done. (1322.5ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_301 - Copy.jpg
+1 happy, Done. (1211.8ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_301.jpg
+1 happy, Done. (1264.6ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_302.jpg
+1 happy, Done. (1288.6ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_303 - Copy.jpg
+1 happy, Done. (1378.3ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_303.jpg
+1 happy, Done. (1330.4ms) Inference, (2.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_304.jpg
+1 happy, Done. (1230.7ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_305 - Copy.jpg
+1 happy, Done. (1268.6ms) Inference, (2.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_305.jpg
+1 happy, Done. (1227.7ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_306.jpg
+1 happy, Done. (1383.3ms) Inference, (2.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_307 - Copy.jpg
+1 happy, Done. (1302.5ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_307.jpg
+1 happy, Done. (1220.7ms) Inference, (2.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_308.jpg
+2 happys, Done. (1231.7ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_309 - Copy.jpg
+2 happys, Done. (1216.8ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_309.jpg
+2 happys, Done. (1400.3ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_310.jpg
+2 happys, Done. (1338.4ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_311 - Copy.jpg
+2 happys, Done. (1285.6ms) Inference, (2.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_311.jpg
+2 happys, Done. (1400.3ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_312.jpg
+2 happys, Done. (1299.5ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_313 - Copy.jpg
+2 happys, Done. (1476.1ms) Inference, (3.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_313.jpg
+2 happys, Done. (1370.3ms) Inference, (2.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_314.jpg
+2 happys, Done. (1297.5ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_315 - Copy.jpg
+2 happys, Done. (1265.6ms) Inference, (2.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_315.jpg
+2 happys, Done. (1292.6ms) Inference, (2.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_316.jpg
+1 happy, Done. (1592.7ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_317 - Copy.jpg
+1 happy, Done. (1239.7ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_317.jpg
+1 happy, Done. (1256.6ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_318.jpg
+1 happy, Done. (1242.7ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_319 - Copy.jpg
+1 happy, Done. (1290.6ms) Inference, (2.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_319.jpg
+1 happy, Done. (1446.1ms) Inference, (2.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_32.jpg
+1 happy, Done. (1232.7ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_320.jpg
+1 happy, Done. (1221.7ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_321 - Copy.jpg
+1 happy, Done. (1225.7ms) Inference, (2.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_321.jpg
+1 happy, Done. (1353.4ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_322.jpg
+1 happy, Done. (1464.1ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_323 - Copy.jpg
+1 happy, Done. (1259.6ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_323.jpg
+1 happy, Done. (1243.7ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_324.jpg
+1 happy, Done. (1189.8ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_325 - Copy.jpg
+1 happy, Done. (1302.5ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_325.jpg
+1 happy, Done. (1380.3ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_326.jpg
+1 happy, Done. (1208.8ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_327 - Copy.jpg
+1 happy, Done. (1209.8ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_327.jpg
+1 happy, Done. (1205.8ms) Inference, (2.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_328.jpg
+1 happy, Done. (1266.6ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_329 - Copy.jpg
+1 happy, Done. (1432.2ms) Inference, (2.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_329.jpg
+2 happys, Done. (1195.8ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_330.jpg
+1 happy, Done. (1223.7ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_331 - Copy.jpg
+1 happy, Done. (1201.8ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_331.jpg
+1 happy, Done. (1286.6ms) Inference, (2.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_332.jpg
+1 happy, Done. (1516.0ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_333 - Copy.jpg
+1 happy, Done. (1250.7ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_333.jpg
+1 happy, Done. (1246.7ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_334.jpg
+1 happy, Done. (1221.7ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_335 - Copy.jpg
+1 happy, Done. (1299.5ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_335.jpg
+1 happy, Done. (1447.2ms) Inference, (2.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_336.jpg
+1 happy, Done. (1282.6ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_337 - Copy.jpg
+1 happy, Done. (1237.7ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_337.jpg
+1 happy, Done. (1258.6ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_338.jpg
+1 happy, Done. (1377.3ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_339 - Copy.jpg
+1 happy, Done. (1383.3ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_339.jpg
+1 happy, Done. (1223.7ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_34.jpg
+1 happy, Done. (1265.6ms) Inference, (2.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_340.jpg
+1 happy, Done. (1204.8ms) Inference, (2.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_341 - Copy.jpg
+1 happy, Done. (1309.5ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_341.jpg
+1 relax, Done. (1368.3ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_342.jpg
+1 relax, Done. (1243.7ms) Inference, (2.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_343 - Copy.jpg
+1 relax, Done. (1207.8ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_343.jpg
+1 happy, Done. (1228.7ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_344.jpg
+Done. (1315.5ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_345 - Copy.jpg
+Done. (1379.3ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_345.jpg
+2 happys, Done. (1192.8ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_346.jpg
+1 happy, Done. (1169.9ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_347 - Copy.jpg
+1 happy, Done. (1252.7ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_347.jpg
+1 happy, Done. (1277.6ms) Inference, (2.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_348.jpg
+1 happy, Done. (1433.2ms) Inference, (2.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_349 - Copy.jpg
+1 happy, Done. (1200.8ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_349.jpg
+1 happy, Done. (1233.7ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_350.jpg
+2 happys, Done. (1212.8ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_351 - Copy.jpg
+2 happys, Done. (1260.6ms) Inference, (2.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_351.jpg
+1 happy, Done. (1461.1ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_352.jpg
+Done. (1242.7ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_353 - Copy.jpg
+Done. (1202.8ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_353.jpg
+Done. (1263.6ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_354.jpg
+Done. (1287.6ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_355 - Copy.jpg
+Done. (1429.2ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_355.jpg
+Done. (1207.8ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_356.jpg
+1 happy, Done. (1252.7ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_357 - Copy.jpg
+1 happy, Done. (1222.7ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_357.jpg
+1 happy, Done. (1298.5ms) Inference, (2.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_358.jpg
+1 happy, Done. (1443.1ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_359 - Copy.jpg
+1 happy, Done. (1204.8ms) Inference, (2.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_359.jpg
+1 happy, Done. (1222.7ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_36.jpg
+2 happys, Done. (1202.8ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_360.jpg
+1 happy, Done. (1252.7ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_362.jpg
+1 happy, Done. (1436.2ms) Inference, (2.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_364.jpg
+1 happy, Done. (1197.8ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_366.jpg
+1 happy, Done. (1237.7ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_368.jpg
+2 happys, Done. (1200.8ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_370.jpg
+2 happys, Done. (1267.6ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_372.jpg
+2 happys, Done. (1408.2ms) Inference, (2.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_374.jpg
+1 happy, Done. (1245.7ms) Inference, (2.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_376.jpg
+Done. (1318.5ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_378.jpg
+1 happy, Done. (1210.8ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_38.jpg
+1 happy, Done. (1265.6ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_380.jpg
+Done. (1416.2ms) Inference, (2.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_382.jpg
+Done. (1211.8ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_384.jpg
+1 happy, Done. (1218.7ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_386.jpg
+1 happy, Done. (1214.8ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_388.jpg
+1 happy, Done. (1273.6ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_390.jpg
+1 happy, Done. (1435.2ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_4.jpg
+1 excited, 1 happy, Done. (1216.8ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_40.jpg
+1 excited, 1 happy, Done. (1274.6ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_42.jpg
+2 happys, Done. (1215.8ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_420.jpg
+1 happy, Done. (1360.4ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_422.jpg
+1 happy, Done. (1398.3ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_424.jpg
+2 happys, Done. (1271.6ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_426.jpg
+1 happy, Done. (1235.7ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_428.jpg
+1 happy, Done. (1209.8ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_430.jpg
+1 happy, Done. (1252.7ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_432.jpg
+1 happy, Done. (1288.6ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_434.jpg
+1 happy, Done. (1483.0ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_44.jpg
+1 happy, Done. (1454.1ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_450.jpg
+1 happy, Done. (1308.5ms) Inference, (2.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_46.jpg
+1 happy, Done. (1214.8ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_48.jpg
+1 happy, Done. (1256.6ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_50.jpg
+1 happy, Done. (1313.5ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_52.jpg
+1 excited, 2 happys, Done. (1419.2ms) Inference, (2.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_54.jpg
+1 excited, 1 happy, Done. (1241.7ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_56.jpg
+1 happy, Done. (1288.6ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_58.jpg
+1 happy, Done. (1265.6ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_6.jpg
+1 happy, Done. (1312.5ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_60.jpg
+2 happys, Done. (1445.1ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_62.jpg
+1 happy, Done. (1224.7ms) Inference, (2.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_64.jpg
+1 happy, Done. (1265.6ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_66.jpg
+1 happy, Done. (1237.7ms) Inference, (2.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_68.jpg
+1 happy, Done. (1312.5ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_70.jpg
+1 happy, Done. (1410.2ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_72.jpg
+1 happy, Done. (1253.7ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_74.jpg
+1 happy, Done. (1206.8ms) Inference, (2.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_76.jpg
+1 happy, Done. (1248.7ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_78.jpg
+1 happy, Done. (1340.4ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_8.jpg
+1 happy, Done. (1409.2ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_80.jpg
+1 happy, Done. (1321.5ms) Inference, (2.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_82.jpg
+1 happy, Done. (1243.7ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_84.jpg
+1 happy, Done. (1256.6ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_86.jpg
+1 happy, Done. (1350.4ms) Inference, (2.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_88.jpg
+1 happy, Done. (1614.7ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_90.jpg
+1 happy, Done. (1426.2ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_92.jpg
+1 happy, Done. (1243.7ms) Inference, (2.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_94.jpg
+1 happy, Done. (1237.7ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_96.jpg
+1 happy, Done. (1429.2ms) Inference, (1.0ms) NMS
+ The image with the result is saved in: runs\detect\exp12\frame_98.jpg
+Done. (334.531s)
+Namespace(weights=['C:/Emotion_Analysis/Yolov7/yolov7/best.pt'], source='C:/Emotion_Analysis/Yolov7/yolov7/source-images/', img_size=640, conf_thres=0.25, iou_thres=0.45, device='', view_img=False, save_txt=False, save_conf=False, nosave=False, classes=None, agnostic_nms=False, augment=False, update=False, project='runs/detect', name='exp', exist_ok=False, no_trace=False)
+Fusing layers... 
+RepConv.fuse_repvgg_block
+RepConv.fuse_repvgg_block
+RepConv.fuse_repvgg_block
+IDetect.fuse
+ Convert model to Traced-model... 
+ traced_script_module saved! 
+ model is traced! 
