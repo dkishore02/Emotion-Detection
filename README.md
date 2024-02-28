@@ -27,4 +27,17 @@ The project directory has the following structure:
 To detect emotions, use the following command:
 
 ```bash
-!python detect.py --weights /content/yolov7/runs/train/yolov7-custom/weights/best.pt --img 480 --conf 0.40 --source "/content/yolov7/test"
+!python detect.py --weights /path/to/best.pt --img 480 --conf 0.40 --source "/path/to/source/images/folder"
+```
+
+
+- **weights**: Path to the trained model weights file (best.pt).
+- **img**: Size of the input image for detection.
+- **conf**: Confidence threshold for detection.
+- **source**: Path to the source directory containing test images or videos.
+
+## Results
+The results of the emotion detection can be found in the runs/detect/exp directory. Detected frames are saved as image files.
+
+## Evaluation
+Model performance evaluation metrics, including confusion matrix and various curves, are available in the project directory.
