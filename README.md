@@ -4,6 +4,27 @@
 
 This project utilizes YOLO V7 for facial emotion detection from images and videos. The YOLO (You Only Look Once) algorithm is a real-time object detection system that can detect multiple objects in an image simultaneously.
 
+## Emotion Classes
+
+The model is trained to recognize the following emotion classes:
+
+- Happy
+- Sad
+- Fear
+- Anger
+- Relax
+- Worry
+- Neutral
+- Excited
+
+Each emotion class consists of 500 images for training.
+
+## Training Details
+
+- **Training Duration**: 6 hours
+- **Mean Average Precision (mAP)**: 0.75
+
+
 ## Project Structure
 
 The project directory has the following structure:
