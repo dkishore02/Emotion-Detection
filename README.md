@@ -45,10 +45,10 @@ The project directory has the following structure:
 
 ## How to Detect Emotions
 
-To detect emotions, use the following command:
+To detect emotions, use the following command in your cloned terminal:
 
 ```bash
-!python detect.py --weights /path/to/best.pt --img 480 --conf 0.40 --source "/path/to/source/images/folder"
+python detect.py --weights /path/to/best.pt --img 480 --conf 0.40 --source "/path/to/source/images/folder"
 ```
 
 
