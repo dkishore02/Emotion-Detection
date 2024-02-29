@@ -45,6 +45,12 @@ The project directory has the following structure:
 
 ## How to Detect Emotions
 
+Clone the repo.
+Install the requirements in the root directory
+```bash
+pip install requirements.txt
+```
+
 To detect emotions, use the following command in your cloned terminal:
 
 ```bash
